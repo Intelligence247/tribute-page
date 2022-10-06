@@ -1,0 +1,72 @@
+main {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(235, 232, 232);
+    color: rgba(0, 0, 0, 0.790);
+}
+
+h1,
+header p {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    margin-top: 1rem;
+    padding-top: 2rem;
+    font-size: 42px;
+}
+
+.img {
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    max-width: 100%;
+    height: auto;
+    margin: 0px 10px;
+
+}
+
+figcaption {
+    text-align: center;
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 0px 10px;
+}
+
+ul {
+    margin: 0 22.5rem;
+    text-align: justify;
+    font-size: large;
+}
+
+li {
+    margin-bottom: 2rem;
+}
+
+.conclusion {
+    margin: 0 23rem;
+    font-style: italic;
+    font-size: large;
+}
+
+footer {
+    font-weight: 900;
+    font-size: larger;
+    margin: 2rem 0;
+}
+
+.writer {
+
+    font-style: italic;
+    margin: 0 23rem;
+    padding-top: 2rem;
+}
+
+p.heading {
+    font-size: larger;
+    font-weight: 800;
+}
